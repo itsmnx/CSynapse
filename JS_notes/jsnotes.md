@@ -648,7 +648,9 @@ What happens:
 
 
 **let see in given example**
+
 ![alt text](image.png)
+
 here in the code lines are also there for the code so in the exectuion follows as-
 - step1: *Global Environment*
 
@@ -1730,7 +1732,10 @@ Methods explained
 
 ```
 **Flow Diagram**
+
 ![alt text](image-1.png)
+
+
 
 # JavaScript Promise Methods
 
